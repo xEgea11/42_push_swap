@@ -1,0 +1,11 @@
+#.DS_Store
+.DS_Store
+
+#*.o
+*.o
+
+#Binary
+push_swap
+
+#Others
+*.h.gch
